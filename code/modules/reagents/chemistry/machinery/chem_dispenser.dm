@@ -88,7 +88,7 @@
 		/datum/reagent/medicine/mine_salve,
 		/datum/reagent/medicine/morphine,
 		/datum/reagent/drug/space_drugs,
-		/datum/reagent/toxin
+		/datum/reagent/australium
 	)
 
 	var/list/recording_recipe
